@@ -17,7 +17,9 @@ Mit dem Cross Site Scripting kann der Inhalt einer Seite mittels Einschleusen vo
 - Eine textliche Beschreibung
 - Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 - Ein gut dokumentierter Code-Fetzen
-![](https://github.com/Lernbericht_183/xss.gif)
+
+
+![xss](https://user-images.githubusercontent.com/69577485/207817594-7e82a3e7-8a80-42fb-9e76-ab8617061062.gif)
 
 ## Verifikation
 
