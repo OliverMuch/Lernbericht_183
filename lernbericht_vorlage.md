@@ -8,7 +8,7 @@ Mit dem Cross Site Scripting kann der Inhalt einer Seite mittels Einschleusen vo
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, dass bei einer Webapplikation das Escaping eine sehr wichtige Rolle spielt, um solche Manipulationen mit z.B. XSS zu vermeiden. 
 
 ## Beschreibung
 
