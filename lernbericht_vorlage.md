@@ -4,7 +4,7 @@ Oliver Much; Cross Site Scripting
 
 ## Einleitung
 
-Mit dem Cross Site Scripting kann der Inhalt einer Seite mittels Einschleusen von eigenem JavaScript-Code auf der seite verändert werden.
+Mit dem Cross Site Scripting kann der Inhalt einer Seite mittels Einschleusen von eigenem JavaScript-Code verändert werden.
 
 ## Was habe ich gelernt?
 
@@ -29,6 +29,6 @@ Das GIF zeigt, wie mittels Eingabe von JavaScript-Code der Inhalt verändert wer
 
 👍 Ich habe schnell die Funktionsweise von XSS verstanden und konnte es bei meinem Projekt ausprobieren. 
 
-👎 Zu Beginn des Auftrags war mir noch unklar, wie man das XSS escapen konnte und ich habe Zeit beim Überlegen verloren. 
+👎 Zu Beginn des Auftrags war mir noch unklar, wie man das XSS escapen konnte und ich habe viel Zeit beim Überlegen verloren. 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen _handelbaren_ Verbesserungsvorschlag.
+**VBV**: Zur Verbesserung werde ich in Zukunft besser im Unterricht mitarbeiten, damit ich solche Dinge nicht allein herausfinden muss und somit viel Zeit verschwinde. 
