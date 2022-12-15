@@ -14,8 +14,11 @@ Ich habe gelernt, dass bei einer Webapplikation das Escaping eine sehr wichtige 
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-- Eine textliche Beschreibung
-- Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+Das Escaping schützt unsere Applikation von Manipulationen wie von XSS. Durch das Escaping verhindern wir, dass das Programm Problematische Benutzereingaben nicht "falsch" interpretiert. Wir wollen z.B. verhindern, dass durch die EIngabe von `<script/>` JavaScript-Code ausgeführt werden kann. Dazu müssen wir die Eingabe escapen. 
+
+In `JSF` wird automatisch escaping betrieben. Es kann jedoch explizit ab- oder eingestellt werden. Dazu reicht dieser Code in den betroffenen `.xhtml` Dateien:
+`<h:outputText value="#{newsitem.detail}" escaping="true"/>`
+
 - Ein gut dokumentierter Code-Fetzen
 
 
