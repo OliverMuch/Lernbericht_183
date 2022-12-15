@@ -18,6 +18,7 @@ Das Escaping schützt unsere Applikation von Manipulationen wie von XSS. Durch d
 
 In `JSF` wird automatisch escaping betrieben. Es kann jedoch explizit ab- oder eingestellt werden. Dazu reicht dieser Code in den betroffenen `.xhtml` Dateien:
 `<h:outputText value="#{newsitem.detail}" escaping="true"/>`
+Durch dieses Codestück werden die Eingaben aus dem TextField automatisch escaped. 
 
 - Ein gut dokumentierter Code-Fetzen
 
