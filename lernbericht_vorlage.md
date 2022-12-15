@@ -12,15 +12,11 @@ Ich habe gelernt, dass bei einer Webapplikation das Escaping eine sehr wichtige 
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
 Das Escaping schützt unsere Applikation von Manipulationen wie von XSS. Durch das Escaping verhindern wir, dass das Programm Problematische Benutzereingaben nicht "falsch" interpretiert. Wir wollen z.B. verhindern, dass durch die EIngabe von `<script/>` JavaScript-Code ausgeführt werden kann. Dazu müssen wir die Eingabe escapen. 
 
 In `JSF` wird automatisch escaping betrieben. Es kann jedoch explizit ab- oder eingestellt werden. Dazu reicht dieser Code in den betroffenen `.xhtml` Dateien:
 `<h:outputText value="#{newsitem.detail}" escaping="true"/>`
 Durch dieses Codestück werden die Eingaben aus dem TextField automatisch escaped. 
-
-- Ein gut dokumentierter Code-Fetzen
 
 
 ![xss](https://user-images.githubusercontent.com/69577485/207817594-7e82a3e7-8a80-42fb-9e76-ab8617061062.gif)
@@ -31,8 +27,8 @@ Das GIF zeigt, wie mittels Eingabe von JavaScript-Code der Inhalt verändert wer
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief;
+👍 Ich habe schnell die Funktionsweise von XSS verstanden und konnte es bei meinem Projekt ausprobieren. 
 
-👎 und etwas, was nicht gut lief.
+👎 Zu Beginn des Auftrags war mir noch unklar, wie man das XSS escapen konnte und ich habe Zeit beim Überlegen verloren. 
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen _handelbaren_ Verbesserungsvorschlag.
