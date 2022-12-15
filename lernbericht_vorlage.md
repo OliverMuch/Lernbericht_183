@@ -23,7 +23,7 @@ Mit dem Cross Site Scripting kann der Inhalt einer Seite mittels Einschleusen vo
 
 ## Verifikation
 
-Das GIF zeigt, wie mittels Eingabe von JavaScript-Code der Inhalt verändert werden kann. Durch das Eingeben von dem  '<script></script>' Tag, wird die Eingabe als JavaScript-Code angesehen und das Programm führt den Code innerhalb der Tags aus. 
+Das GIF zeigt, wie mittels Eingabe von JavaScript-Code der Inhalt verändert werden kann. Durch das Eingeben von dem  `<script></script>` Tag, wird die Eingabe als JavaScript-Code angesehen und das Programm führt den Code innerhalb der Tags aus. 
 
 # Reflektion zum Arbeitsprozess
 
